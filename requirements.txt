@@ -1,5 +1,11 @@
 streamlit
-pdfplumber
-pdfminer.six
+python-docx
+pytesseract
 Pillow
-pypdfium2
+pdfplumber
+scikit-learn
+transformers
+langchain
+sentence-transformers
+torch
+numpy
